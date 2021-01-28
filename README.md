@@ -2,7 +2,7 @@
 Welcome! This is a repository for the virtual webinar on SwiftUI based app calling Serverless NLU service
 - recording will be here: https://www.crowdcast.io/e/expanding-swiftui-with
 
-Follow the following steps in order to complete the workshop:
+Follow these steps in order to complete the workshop:
 - sign up / sign in to IBM Cloud using the following link: [http://ibm.biz/20210128-serverless](http://ibm.biz/20210128-serverless)
 - please follow the steps in the presentation for LAB 1: Serverless Swift in action – hello world + NLU provisioning - [https://blumareks.gitbook.io/serverless-swift/hello-world-browser-example](https://blumareks.gitbook.io/serverless-swift/hello-world-browser-example)
 - here comes the scaffold of the app [lab 2 - SwiftUI app](lab2)
